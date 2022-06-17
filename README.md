@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @tom220617
-- 👀 I’m interested in ...
+- 👀 I’m interested in odoo
 - 🌱 I’m currently learning odoo
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me tom@hzlwi.com
 
 <!---
 tom220617/tom220617 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
